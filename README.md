@@ -4,6 +4,9 @@
 
 ![Anime Logo](https://github.com/RVDveloper/FlaskApiAnimeWeb/blob/main/Preview/SCR-20240324-lzew.png?raw=true)
 
+--- 
+### Chapter Response
+![Anime chapter](https://github.com/RVDveloper/FlaskApiAnimeWeb/blob/main/Preview/SCR-20240324-more.jpeg?raw=true)
 ---
 
 #### Overview
