@@ -2,7 +2,7 @@
 
 ### Anime Chapter Viewer API
 
-![Anime Logo](link_to_your_image)
+![Anime Logo](https://github.com/RVDveloper/FlaskApiAnimeWeb/blob/main/Preview/SCR-20240324-lzew.png?raw=true)
 
 ---
 
